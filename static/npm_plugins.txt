@@ -1,0 +1,8 @@
+//sass插件
+npm install sass-loader --save
+npm install node-sass --save
+npm install file-loader url-loader -D
+//安装bootstrap
+npm install bootstrap@3.3.0 –save-dev
+//安装高德地图
+npm install vue-amap --save

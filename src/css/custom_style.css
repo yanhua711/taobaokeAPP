@@ -1,0 +1,26 @@
+.mint-header {
+  height: 50px;
+  font-size: 18px;
+  line-height: normal !important;
+}
+
+#photoScene .mint-cell-wrapper {
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), color-stop(50%, #fff), color-stop(50%, transparent));
+  background-image: linear-gradient(180deg, #fff, #fff 50%, transparent 50%);
+}
+
+#photoScene .mint-tab-item-label{
+  color: inherit;
+  font-size: 20px;
+}
+.mint-msgbox-message{
+  color: #000000;
+}
+.mint-msgbox-input input{
+  height: 30px;
+  font-size: 16px;
+  padding: 4px 0px;
+}
+.mint-msgbox-input{
+  padding-right: 2px;
+}
